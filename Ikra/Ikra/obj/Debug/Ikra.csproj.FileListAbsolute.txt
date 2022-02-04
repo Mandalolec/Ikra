@@ -1,0 +1,31 @@
+S:\ФИМЭ\МОАИС-19\Тюдешев Кирилл\Практика\Ikra\Ikra\bin\Debug\Ikra.exe.config
+S:\ФИМЭ\МОАИС-19\Тюдешев Кирилл\Практика\Ikra\Ikra\bin\Debug\Ikra.exe
+S:\ФИМЭ\МОАИС-19\Тюдешев Кирилл\Практика\Ikra\Ikra\bin\Debug\Ikra.pdb
+S:\ФИМЭ\МОАИС-19\Тюдешев Кирилл\Практика\Ikra\Ikra\obj\Debug\Ikra.csprojResolveAssemblyReference.cache
+S:\ФИМЭ\МОАИС-19\Тюдешев Кирилл\Практика\Ikra\Ikra\obj\Debug\Ikra.mainForm.resources
+S:\ФИМЭ\МОАИС-19\Тюдешев Кирилл\Практика\Ikra\Ikra\obj\Debug\Ikra.Properties.Resources.resources
+S:\ФИМЭ\МОАИС-19\Тюдешев Кирилл\Практика\Ikra\Ikra\obj\Debug\Ikra.csproj.GenerateResource.Cache
+S:\ФИМЭ\МОАИС-19\Тюдешев Кирилл\Практика\Ikra\Ikra\obj\Debug\Ikra.exe
+S:\ФИМЭ\МОАИС-19\Тюдешев Кирилл\Практика\Ikra\Ikra\obj\Debug\Ikra.pdb
+S:\ФИМЭ\МОАИС-19\Тюдешев Кирилл\Практика\Ikra\Ikra\obj\Debug\Ikra.SignInForm.resources
+S:\ФИМЭ\МОАИС-19\Тюдешев Кирилл\Практика\Ikra\Ikra\obj\Debug\Ikra.Forms.formContracts.resources
+S:\ФИМЭ\МОАИС-19\Тюдешев Кирилл\Практика\Ikra\Ikra\obj\Debug\Ikra.Forms.formFarm.resources
+S:\ФИМЭ\МОАИС-19\Тюдешев Кирилл\Практика\Ikra\Ikra\obj\Debug\Ikra.Forms.formManager.resources
+D:\Projects\Практика\Ikra\Ikra\bin\Debug\Ikra.exe.config
+D:\Projects\Практика\Ikra\Ikra\bin\Debug\Ikra.exe
+D:\Projects\Практика\Ikra\Ikra\bin\Debug\Ikra.pdb
+D:\Projects\Практика\Ikra\Ikra\obj\Debug\Ikra.mainForm.resources
+D:\Projects\Практика\Ikra\Ikra\obj\Debug\Ikra.Forms.formFarm.resources
+D:\Projects\Практика\Ikra\Ikra\obj\Debug\Ikra.Forms.formManager.resources
+D:\Projects\Практика\Ikra\Ikra\obj\Debug\Ikra.Properties.Resources.resources
+D:\Projects\Практика\Ikra\Ikra\obj\Debug\Ikra.SignInForm.resources
+D:\Projects\Практика\Ikra\Ikra\obj\Debug\Ikra.csproj.GenerateResource.cache
+D:\Projects\Практика\Ikra\Ikra\obj\Debug\Ikra.csproj.CoreCompileInputs.cache
+D:\Projects\Практика\Ikra\Ikra\obj\Debug\Ikra.exe
+D:\Projects\Практика\Ikra\Ikra\obj\Debug\Ikra.pdb
+D:\Projects\Практика\Ikra\Ikra\obj\Debug\Ikra.Forms.formReport.resources
+D:\Projects\Практика\Ikra\Ikra\obj\Debug\Ikra.csproj.ResolveComReference.cache
+D:\Projects\Практика\Ikra\Ikra\bin\Debug\pattern.doc
+D:\Projects\Практика\Ikra\Ikra\obj\Debug\Ikra.csprojAssemblyReference.cache
+D:\Projects\Практика\Ikra\Ikra\bin\Debug\farm.doc
+D:\Projects\Практика\Ikra\Ikra\obj\Debug\Ikra.Forms.FormZapros.resources
